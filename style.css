@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: aquamarine;
+  font-family: "Courier New", Courier, monospace;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  width: 70px;
+}
+
+.clock {
+  background-color: lightgray;
+  width: 350px;
+  height: 350px;
+  border-radius: 50%;
+  border: 5px solid black;
+  box-shadow: 1px;
+}
